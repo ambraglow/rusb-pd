@@ -4,5 +4,5 @@ The parts for this aren't being sold much anymore, all i could find was a listin
 The final result is these two boards, i figured there wasn't much space inside the chassis for an additional board but i did what i could, the first features a vertical usb-c connector and is made so it can be mounted to the chassis connecting to the other board with 90 degree headers.
 The second board features a microcontroller (CH32V003), pd controller (FUSB302) and a pi filter for filtering out any noise incoming from the external psu.
 
-![top](https://bassusteur.github.io/rusb-pd/top.png)
-![bottom](https://bassusteur.github.io/rusb-pd/bottom.png)
+![top](https://ambraglow.github.io/rusb-pd/top.png)
+![bottom](https://ambraglow.github.io/rusb-pd/bottom.png)
